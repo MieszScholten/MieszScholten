@@ -2,8 +2,8 @@
 - 👀 I’m interested in architecture, ai and all the rest
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me on the road
+- 😄 Pronouns: MGWS
 - ⚡ Fun fact: what's really fun?
 
 <!---
